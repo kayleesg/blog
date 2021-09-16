@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "KayleeSG Blog"
 ---
 
-I'm glad you are here. I plan to talk about Cybersecurity and my adventures in this field!
+I'm glad you are here. I will talk about Cybersecurity and my adventures in this field!
