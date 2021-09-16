@@ -2,4 +2,6 @@
 title: "KayleeSG Blog"
 ---
 
-I'm glad you are here. I will talk about Cybersecurity and my adventures in this field!
+Cybersecurity, SecureSet, and Python, oh my!!
+
+Read eeekly posts about my journies into the Cybersecurity field!
