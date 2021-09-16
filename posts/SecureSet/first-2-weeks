@@ -39,6 +39,11 @@
 	</p>
 	<p>
 		"The lab required us to have two virtual machines running on their own isolated networks. Our goal was to use a local proxy to log into once VM from another using SecureShell (SSH). Below is a small diagram of what was required of us:"
+	</p>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Proxy_concept_en.svg/1280px-Proxy_concept_en.svg.png">
+	<p>
+		"From our very limited knowledge, we had no idea how to accomplish this. In the picture, there is a pre-configured proxy but we needed to do the configuration on our side! Wow. Seemed easy once we figured it out, it just took a lot of brain power and head banging on the desks."
+	</p>
 
 </body>
 </html>
