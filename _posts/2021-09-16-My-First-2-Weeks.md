@@ -26,7 +26,7 @@ Availability is making sure that data is available. For example, your best frien
 <p>It wasn't until we started going over the OSI Model did it start to make sense. We started seeing the patterns in the packet captures fairly quickly.</p>
 <p>Once we started feeling confident with the packet captures, <b>a lab was thrown at us that almost made me quit</b>. The lab required us to have two virtual machines running on their own isolated networks. Our goal was to use a local proxy to log into once VM from another using SecureShell (SSH). Below is a small diagram of what was required of us:</p>
 
-<img src="https://kayleesg.github.io/kayleesgblog/Net%20Foundations%20Set%20Up.png">
+<img src="https://kayleesg.github.io/kayleesgblog/Net%20Foundations%20Set%20Up(2).png">
 
 <h3>How we solved this huge problem</h3>
 <p>I'm not to give away the answer because SecureSet might come after me, but I will note a couple of things:</p>
