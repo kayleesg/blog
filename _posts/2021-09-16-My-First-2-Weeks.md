@@ -26,7 +26,7 @@ Availability is making sure that data is available. For example, your best frien
 <p>It wasn't until we started going over the OSI Model did it start to make sense. We started seeing the patterns in the packet captures fairly quickly.</p>
 <p>Once we started feeling confident with the packet captures, <b>a lab was thrown at us that almost made me quit</b>. The lab required us to have two virtual machines running on their own isolated networks. Our goal was to use a local proxy to log into once VM from another using SecureShell (SSH). Below is a small diagram of what was required of us:</p>
 
-<img src="Net Foundations Set Up.png">
+<img src="https://kayleesg.github.io/kayleesgblog/Net%20Foundations%20Set%20Up.png">
 
 <h3>How we solved this huge problem</h3>
 <p>I'm not to give away the answer because SecureSet might come after me, but I will note a couple of things:</p>
@@ -41,7 +41,7 @@ Availability is making sure that data is available. For example, your best frien
 <p>For instance, I am a little more confident in my networking ability. I spent <i>a lot</i> of time on this problem. I had lots of headaches with it, but once the whole class got it down, we were a little drained and a lot more confident.</p>
 <h3>What else did we learn in the first two weeks?</h3>
 <p>We went over the OSI Model and picked apart a TCP Frame (Check out the difference between a TCP Frame and packet here:</p>
-<img src="PDU and Layer Addressing.png">
+<img src="https://kayleesg.github.io/kayleesgblog/PDU%20and%20Layer%20Addressing.png">
 <br />
 <p>We talked about the different networking devices and where they fit on the OSI Model.</p>
 <p>We talked about how to "hack" Google Searches to optimize them for researching. For more information, check out this article: <a href="https://www.acunetix.com/websitesecurity/google-hacking/">What is a Google Hack?</a></p>
