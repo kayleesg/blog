@@ -12,7 +12,7 @@ date: 2022-01-06
 <h3>Issue #1: I had to look online for some extra steps</h3>
 <p>I found this 1 minute guide on how to do it: <a href="https://www.smartprix.com/bytes/how-to-set-up-scrcpy-for-mirorring-phone-on-windows/#:~:text=Step%201%3A%20Download%20the%20latest,folder%20you%20extracted%20for%20adb.&text=Step%204%3A%20Now%20just%20open,pop%2Dup%20on%20your%20PC.">How to set-up Scrcpy for mirroring phone on Windows PC</a></p>
 <p>Armed with this guide, I set off with the first step of setting-up ADB. I'd run <code>./adb.exe devices</code> and......... nothing shows under the list.</p>
-<img src="https://kayleesg.github.io/kayleesgblog/no-devices-here.png">
+<img src="https://kayleesg.github.io/blog/no-devices-here.png">
 
 <h2>Troubleshooting to the rescue!</h2>
 <p>I decided to double check:</p>
